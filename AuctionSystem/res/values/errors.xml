@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="empty_username">Please enter username</string>
+    <string name="empty_password">Please enter password</string>
+    <string name="short_username">Username must have at least 3 characters</string>
+    <string name="short_password">Password must gave at least 5 characters</string>
+    <string name="password_encoding">Password encoding failed.</string>
+    <string name="db_username_exists">Username already exists, try a different one.</string>
+    <string name="db_user_insert_failed">Unable to create new user, try again.</string>
+    <string name="invalid_login">Invalid username/password, try again</string>
+    <string name="external_storage_na">External storage is not mounted.</string>
+    <string name="app_error">App error, close the app and try again.</string>
+    <string name="non_zero_baseprice">Base price must be non-zero</string>
+    <string name="select_auction_date">Please pick Auction Date</string>
+    
+</resources>

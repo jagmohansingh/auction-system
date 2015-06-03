@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Auction System</string>
+    <string name="welcome">Welcome to</string>
+    <string name="auction_system">Auction System</string>
+    <string name="title_live_auctions">Auctioning now!</string>
+    <string name="title_create_auction">Create Auction</string>
+    <string name="title_auction_item">Auction Item</string>
+    <string name="title_submit_bid">Submit your bid!</string>
+    <string name="signup">Signup</string>
+    <string name="btn_login">Login</string>
+    <string name="lb_username">Username: </string>
+    <string name="lb_password">Password: </string>
+    <string name="hint_username">Enter username</string>
+    <string name="hint_password">Enter password</string>
+    <string name="no_open_auctions">No Auctions available for bidding, check back later.</string>
+    <string name="no_auctions_by_you">You haven\'t submitted any Auction yet.</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_base_price">Base Amount</string>
+    <string name="hint_bid_starts">Auction Starts At:</string>
+    <string name="hint_bid_starts_on1">Date</string>
+    <string name="hint_bid_starts_on2">Time</string>
+    <string name="lb_bid_closes_in">Auction Closes In (hrs): </string>
+    <string name="btn_create_auction">Submit Auction</string>
+    <string name="login">Login to <b>Auction System</b></string>
+    <string name="remember_me">Remember Me</string>
+    <string name="new_account">New user?</string>
+    <string name="new_user"><b>Auction System</b> - New User</string>
+    <string name="lb_fullname">Name: </string>
+    <string name="hint_fullname">Enter your name</string>
+    <string name="lb_email">Email: </string>
+    <string name="hint_email">Enter email address</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Register</string>
+    <string name="user_created">New user created and logged in.</string>
+    <string name="auction_item_created">Auction item created.</string>
+    <string name="bidding_ends_on">Ends At: %s</string>
+    <string name="auction_ends_in">Bidding Closes In: %s</string>
+    <string name="auction_ended">Auction Ended!</string>
+    <string name="btn_bid_now">Bid now!</string>
+    <string name="highest_bid">Highest Bid Amount</string>
+    <string name="your_bid">Your Bid</string>
+    <string name="hint_bid_amount">Enter your bid amount</string>
+    <string name="btn_submit">Submit</string>
+    <string name="no_bids">No bids yet!</string>
+    <string name="cant_bid_less">Please bid higher than the Highest Bid!</string>
+    <string name="bid_submitted">Bid submitted!</string>
+    <string name="bid_submit_error">Unable to save your Bid, try again.</string>
+    <string name="bidding_for">Bidding For: %s</string>
+    <string name="more_than_base_amount">You must bid more than Base Amount!</string>
+    <string name="your_bid_amount">Your Bid Amount: %.2f</string>
+    <string name="title_my_auctions">My Auctions</string>
+    <string name="title_auctions_won">Auctions Won</string>
+    <string name="no_auctions_won">You are yet to win an Auction!\nStart bidding now.</string>
+    <string name="bid_by">User: %s</string>
+    <string name="bid_amount">Bid Amount: %.2f</string>
+    <string name="title_auction_bids">Bids For: %s</string>
+    <string name="bid_notes">Bid Notes: </string>
+    <string name="hint_bid_notes">Additional notes (optional)</string>
+    <string name="enter_auction_title">Enter auction title</string>
+    <string name="enter_auction_description">Enter some description for item</string>
+    <string name="enter_base_price">Enter base amount</string>
+    <string name="title_user_details">Seller Details</string>
+
+</resources>
