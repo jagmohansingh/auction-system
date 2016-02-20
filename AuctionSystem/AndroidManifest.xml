@@ -37,11 +37,7 @@
         <activity
             android:name=".AuctionItemActivity"
             android:label="@string/title_auction_item"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".SubmitBidActivity"
-            android:label="@string/title_submit_bid"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait" /> 
         <activity
             android:name=".AuctionBidsActivity"
             android:label="@string/title_auction_bids"
